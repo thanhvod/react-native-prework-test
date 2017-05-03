@@ -1,0 +1,4 @@
+#Wed May 03 21:33:43 ICT 2017
+base.0=/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

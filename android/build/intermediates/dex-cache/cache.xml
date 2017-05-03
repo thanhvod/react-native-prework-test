@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_9fb43403c6adb5c671d82acf332e8e9aa94ec93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_22da517de6ed3ecdcd92ae92fc829452db995043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4845370f1a4700d187118bc157e058f9a3130300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_c77f8fae9d8a20cb3531cd22b1365dcddaf1fcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_6b419d0a18c27dc59fc150f195d82f204ab62a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8248540fed9e8a296c489f3a5a7398eea472d562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d23deeefbb79a5e08b976bb38fa1840cb498b8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_be68c3dfcc23c1b1948922ebc68b9b11e1e85147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7d7c450afad396c4318f5c2b05f9892191843bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_38ea15cf60df67ee05db703e54a9740a94a922c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f45d56bf9d390a96f4068c1bebffcbeb56a26b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_3c7db0344b8a2d4f6019dbc7beb81e99c87d6651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f110314b791e29279737e77327b399e5501cfd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_069bfb007d1d29ade98827b38de12cd92ff0028a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d2ce469a6a2b48ba66342e94da17d71bb3d17b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_77c6fa64821725a3eb0f3092b43f4b78ae5af499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_e05ec74ce69e6c75c73d0713cd05b7136261f870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_6f61643ea03fbaa8c2d3bb3d426c769661a80418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_020a98e7e40630a2e28a556599ea2beb7b18638c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_8a5f618bd5de2084cab4665555fac298c1a64b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_4237e4a1e55c88af3513aa0a8c68f2457a62c219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/voducthanh/GIT/ME-TEST/LEARN-REACT-NATIVE/PreworkCalculator/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2f2a8cca166dd604d597798a35eb1863f296fbc9.jar" />
+    </item>
+
+</items>
